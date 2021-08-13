@@ -2,7 +2,7 @@
 
 - 👶 27 anos
 - 🎓 Formado em Sistemas de Informação
-- 💻 Atualmente sou um desenvolvedor full-stack, trabalhando com ASP.NET e ExtJS e MySQL
+- 💻 Atualmente sou um desenvolvedor full-stack, trabalhando com ASP.NET, ExtJS e MySQL
 - 📚 Estudando Angular e .NET 
 
 Onde você pode me encontrar:
