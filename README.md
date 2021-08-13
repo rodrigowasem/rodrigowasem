@@ -1,4 +1,4 @@
-### Um pouco sobre mim
+### Um pouco sobre mim...
 
 - 👶 27 anos
 - 🎓 Formado em Sistemas de Informação
