@@ -3,7 +3,7 @@
 - 👶 27 anos
 - 🎓 Formado em Sistemas de Informação
 - 💻 Atualmente trabalhando com .NET, ExtJS e MySQL
-- 📚 Estudando Angular e .NET 
+- 📚 Estudando Angular, .NET e SQL Server 
 
 Onde você pode me encontrar:
 <div>   
